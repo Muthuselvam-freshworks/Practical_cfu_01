@@ -1,0 +1,98 @@
+@import url(https://fonts.google.com/specimen/Barlow);
+* {
+    font-family: Barlow ;
+}
+
+.navbar-1 {
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ word-spacing: 20px;
+ margin-top: 50px;
+ margin-bottom: 50px;
+ padding-left: 750px;
+ font-size: 15px;
+ font-weight: 100px;
+ }
+.navbar-logo {
+  position: absolute;
+  margin-top:10px;
+  left: 150px;
+  color: hsl(255deg 43% 28%) ;
+  
+}
+.header {
+    margin-left: 150px;
+    margin-top: 150px;
+    background-color: hsl(255deg 43% 28%);
+    color:  hsl(231, 7%, 65%);
+    width: 400px;
+    padding: 10px 15px;
+    border-radius: 20px;
+  }
+.h1-topic {
+    font-size: 50px;
+    font-weight: bold;
+    margin-left: 150px;
+    margin-top: 20px;
+    width: 600px;
+    color: hsl(255deg 43% 28%);
+}
+.para {
+    margin-left: 150px;
+    width: 650px;
+    margin-top: -395px;
+    font-weight: 20px;
+}
+.mail-box {
+    margin-left: 150px;
+    margin-top: 20px;
+    padding: 10px 100px;
+    padding-left: 10px;
+ 
+}
+.button {
+    margin-left: 425px;
+    position: absolute;
+    top: 505px;
+    width: 100px;
+    height: 40px;
+    background-color: hsl(255deg 43% 28%);
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+
+  }
+  .company {
+    margin-left: 150px;
+    margin-top: 130px;
+    font-size: 20px;
+    font-weight: bold;
+
+
+  }
+  .button-1 {
+    margin-left: 20px;
+    background-color: hsl(255deg 43% 28%);
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    width: 100px;
+    height: 40px;
+    cursor: pointer;
+
+  }
+  .image {
+    position: relative;
+    left: 900px;
+    top: -200px;
+
+  }
+ .icon {
+    margin-left: 150px;
+    margin-top: 20px;
+    justify-content: space-evenly;
+  }
+   
+  
